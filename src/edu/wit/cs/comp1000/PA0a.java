@@ -1,11 +1,18 @@
 package edu.wit.cs.comp1000;
 
-// TODO: document this class
+/**
+ * 
+ * @author koehlerd
+ *
+ */
 public class PA0a {
 	
-	// TODO: document this function
+	/**
+	 * Prints Hello World! to console
+	 * @param args
+	 */
 	public static void main(String[] args) {
-		// TODO: write your code here
+		System.out.printf("Hello World!%n");
 	}
 
 }
